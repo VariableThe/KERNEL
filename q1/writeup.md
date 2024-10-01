@@ -1,5 +1,5 @@
 # Writeup For Question 1 (includes approach):
-## 1-10-25
+## 1-10-24
 ## Question Statement:
 ```
 10010110000 10010101111
