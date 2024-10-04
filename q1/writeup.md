@@ -22,7 +22,7 @@ binwalk -e candleQ.txt
 ```
 extracts the contents into a folder.
 
-Opening the folder, we can see a scrambled image titled image.ppm
+Opening the folder, we can see a scrambled image titled candle.ppm
 opening this image in vim (after navigating into the extracted folder)
 ```
 vim candle.ppm
