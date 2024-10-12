@@ -4,6 +4,16 @@
 
 just the two images.
 
+doll.jpg
+---
+![doll.jpg](./doll.jp
+---
+mat_doll.jpg
+---
+![mat_doll.jpg](./mat_doll.jpg)
+
+---
+
 ## Approach:
 
 The two images are of matryoshka dolls, a type of russian doll, famous for encasing another.
