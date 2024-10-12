@@ -8,6 +8,9 @@ This is your conversation:
 
 ![Conversation Screenshot](./message.png)
 
+<br>
+Open the safe using the pin.
+
 ---
 
 ## Approach
