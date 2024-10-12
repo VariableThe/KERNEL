@@ -1,11 +1,15 @@
 # This the writeup for the 2nd Question:
 ## 6-10-24
-So, we give them only 1 image, and maybe a hint/directive type question.
-the image on opening is just a spool of string. 
-On doing binwalk, you find nothing, as there is nothing there.
-On doing exiftool, there is an overload of information, but if you look for user comment (at line 36 below focal length) you can see the comment says trash2^3. 
-What does that mean?
-If they make of the image, that the object in the image (string) is in itself a hint, they will run string on the image
+In this challenge, participants are provided with a single image, which depicts a spool of string. Upon inspecting the image with **binwalk**, no hidden data is found. <br>
+However, a thorough examination using **exiftool** reveals an abundance of information. Notably, a user comment appears at line 36, below the focal length, stating: `trash2^3`.<br><br>
+
+This comment serves as a critical hint. <br>
+If participants recognize that the object in the image—a spool of string—can be interpreted as a clue, they will proceed to run the **strings** command on the image file:
+---
+![image](./string.jpg)
+---
+The output will yield numerous results, including the following:
+
 ```
 strings string.jpg
 deE@
@@ -22,6 +26,7 @@ UsO*
 =VN#
 d3RmQ1RGe1NwMDAxX29GX1lhcm59
 ```
-The last string is unusually long, hmm.
-If their mind clicks and they realise that trash2^3 is referring to bin64 encryption, they will try to decrypt it.
-Leading to the flag ``wtfCTF{Sp001_oF_Yarn}``
+Among these strings, the last entry is unusually long and noteworthy.<br>
+If participants make the connection that `trash2^3` refers to Base64 encoding, they may attempt to decode this string.<br>
+
+Successfully decoding the string will reveal the flag: ``wtfCTF{Sp001_oF_Yarn}``
