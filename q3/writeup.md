@@ -6,7 +6,7 @@ just the two images.
 
 doll.jpg
 ---
-![doll.jpg](./doll.jp
+![doll.jpg](./doll.jpg)
 ---
 mat_doll.jpg
 ---
