@@ -1,6 +1,7 @@
 # Wh3rE the Sun D0nt sh1n3
 ## 11/10/24:
 
+---
 ## Question Statement:
 ```
 1010011001 10000011
@@ -9,6 +10,9 @@ where does the light of a candle not reach?
 This consists of two binary encoded numbers, corresponding to ``665`` and ``131``.
 The next line is indicative of the fact that the answer to this question is in the image file.
 
+![Candle Image](q1_replacement/no_stegsuite/pexels-nicolas-langellotti-28179636-18128539.jpg)
+
+---
 ## Approach:
 
 There is a simple image file for the replacement, that and the question text, mentioned in the original documentation for q1.<br>
