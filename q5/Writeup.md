@@ -1,5 +1,17 @@
 # Writeup
 ## 10/10/24
+<br><br>
+## Question statement:-
+
+A secretive agent sent a message to a colleague, hoping to convey important information without arousing suspicion. The message reads: ``"Z0x_ai11_t0F_qhv3_cL3_q1Q."`` The sender used their phone, which has the number ``13406997094``.
+
+Your task is to uncover the hidden PIN within the message. Can you decipher it and reveal the PIN?
+
+Provide the answer in the format: ``wtfCTF{PIN}``.
+
+<br> <br>
+
+## Approach
 
 The message sent is ``Z0x_ai11_t0F_qhv3_cL3_q1Q`` <br>
 This is encrpted via the gronsfield cipher using the sender's number which is: ``13406997094``<br>
