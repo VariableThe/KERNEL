@@ -6,7 +6,7 @@
 You seem to have forgotten the pin to the safe in your room. You ask your roommate, but them being too cautious by always using burner phones and whatnot, they send a weird message instead.  
 This is your conversation:
 
-*Open the safe.*
+![Conversation Screenshot](./message.png)
 
 ---
 
