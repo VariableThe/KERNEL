@@ -5,6 +5,7 @@ However, a thorough examination using **exiftool** reveals an abundance of infor
 
 This comment serves as a critical hint. <br>
 If participants recognize that the object in the image—a spool of string—can be interpreted as a clue, they will proceed to run the **strings** command on the image file:
+
 ---
 ![image](./string.jpg)
 ---
