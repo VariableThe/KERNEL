@@ -1,4 +1,4 @@
-# Hints for the 5th Question
+# Hints for the Question
 
 ---
 
