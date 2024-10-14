@@ -1,0 +1,1 @@
+flag: `` wtfCTF{M4MU31_M0R53}``
