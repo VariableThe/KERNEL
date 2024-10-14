@@ -13,6 +13,6 @@ Consider how the title of the image and its content might relate to the question
 ---
 
 ## Hint 3
-Think about the implications of the phrase `trash2^3`. How might it inform your approach to the information you've gathered?
+Think about the implications of the phrase `trash2^6`. How might it inform your approach to the information you've gathered?
 
 ---
