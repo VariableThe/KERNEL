@@ -1,6 +1,7 @@
 # Writeup for question:-
 ## 5-10-24
 So, this question is presented in the form of an Image and an cisco packet tracer diagram? thats the hint.
+![this file](./twst.pkt)
 the image is divided into 3 differnt sections as is visible in ``new_q4.png`` .
 The image seems blank at first untill you realise that the hints point toward three RGB values.
 These values are:
