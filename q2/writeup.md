@@ -1,4 +1,4 @@
-# This the writeup for the 2nd Question:
+# Ju5T_5tr1ng_Al0ng:
 ## 6-10-24
 In this challenge, participants are provided with a single image, which depicts a spool of string. Upon inspecting the image with **binwalk**, no hidden data is found. <br>
 However, a thorough examination using **exiftool** reveals an abundance of information. Notably, a user comment appears at line 36, below the focal length, stating: `trash2^3`.<br><br>
