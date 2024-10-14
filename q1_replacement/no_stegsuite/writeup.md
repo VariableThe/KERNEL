@@ -22,6 +22,11 @@ using steghide and no password, the file can be extracted.<br>
 steghide extract -sf pexels-nicolas-langellotti-28179636-18128539.jpg -p ""
 wrote extracted data to "candle.txt".
 ```
+you can know for sure it is not a simple txt file if you run:
+```
+file candle.txt
+candle.txt: Netpbm image data, size = 345 x 91, rawbits, pixmap
+```
 after extracting if you convert it to ppm format, by simply renaming it to ``candle.ppm``<br>
 you can open it in a text editor like vim, and use the decoded binary numbers as pixel dimesions<br>
 inputting replacing the nonsense pixel count will get you the flag.<br>
