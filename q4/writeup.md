@@ -2,7 +2,7 @@
 ## 5-10-24
 Question
 ---
-
+Sometimes messages get lost in the noise. But there is still a trace left. FInd the message.
 ---
 Approach
 ---
