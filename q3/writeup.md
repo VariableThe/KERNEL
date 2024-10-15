@@ -45,7 +45,7 @@ should give them the image of the 5th doll, which does not have any zip files in
 When they run it through the common binwalk procedures, they will that the comment says:
 
 ```
-wtfCTF{thEr3_r_5}
+wtfCTF{ThEr3_r_5}
 
 ```
 that is the flag.
