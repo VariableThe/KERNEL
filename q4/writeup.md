@@ -1,4 +1,4 @@
-# Writeup for question:-
+# C0lr_3ory:-
 ## 5-10-24
 Question
 ---
