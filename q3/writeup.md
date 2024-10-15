@@ -1,4 +1,4 @@
-# Writeup For Question 3 (includes approach):
+# T0ta1_R3doll.jpg:
 ## 3-10-24
 ## Question Statement:
 
